@@ -1,0 +1,6 @@
+{
+  "name": "OKIKS PET NUTRITION",
+  "description": "Premium pet nutrition storefront for cats, birds, and rabbits in Nigeria. Shop quality feeds and place convenient WhatsApp orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
